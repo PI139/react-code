@@ -84,7 +84,7 @@ const Home = () => {
 
     return (
         <>
-            {/* <Body /> */}
+            <Body />
             {/* {message} */}
             {/* <button onClick={handleclick}>CLICK</button> */}
         </>
